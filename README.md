@@ -2,6 +2,7 @@ This Python script reads values from a values.txt file and writes them into an o
 It runs automatically at a set interval and handles missing files or locked Excel files gracefully.
 
 Features:
+
 • Automatically creates values.txt if it doesn't exist
 
 • Parses numbers (integers and floats) correctly, leaves other text as-is
